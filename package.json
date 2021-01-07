@@ -1,0 +1,7 @@
+{
+  "name": "HelloWorld",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sarvesh Kumar Kesharwani <sarvesh.kesharwani@thehutgroup.com>",
+  "license": "MIT"
+}
