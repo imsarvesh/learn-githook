@@ -5,6 +5,7 @@
   "author": "Sarvesh Kumar Kesharwani <sarvesh.kesharwani@thehutgroup.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "simple-jwt": "^1.0.3"
   }
 }
