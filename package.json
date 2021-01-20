@@ -4,9 +4,5 @@
   "main": "index.js",
   "author": "Sarvesh Kumar Kesharwani <sarvesh.kesharwani@thehutgroup.com>",
   "license": "MIT",
-  "dependencies": {
-    "express": "^4.17.1",
-    "lodash": "^4.17.20",
-    "simple-jwt": "^1.0.3"
-  }
+  "dependencies": {}
 }
